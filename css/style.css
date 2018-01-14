@@ -1,0 +1,65 @@
+
+
+.background-blue{
+  background-color: #90EE90;
+}
+
+.background-red{
+  background-color: #CD5C5C;
+}
+
+.background-grey{
+  background-color: antiquewhite;
+}
+
+#thepomodoro{
+  margin: auto;
+    text-align: center;
+  width: 600px;
+  height: 350px;
+  border: 10px solid black;
+  border-radius: 15%;
+  margin-top: 200px;
+}
+
+#display{
+  width: 500px;
+  height: 150px;
+  margin-top: 5px;
+  margin-left: 40px;
+  border: 10px solid black;
+  border-radius: 15%;
+  background-color: #C0C0C0;
+  font-family: segment14;
+  font-size: 90px;
+
+}
+
+.box{
+  border: 2px solid black;
+  width: 100px;
+  height: 50px;
+  margin-top: 10px;
+  margin: auto;
+  border-radius: 15%;
+  background-color: #C0C0C0;
+  font-family: segment14;
+  font-size: 35px;
+
+}
+
+.btn{
+  margin-top: 5px;
+  cursor: pointer;
+  background-color: #C0C0C0 !important;
+  border: 2px solid grey !important;
+
+}
+
+#reset{
+  margin-top: 40px;
+}
+
+#start{
+  width: 75px;
+}
